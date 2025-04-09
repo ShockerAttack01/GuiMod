@@ -9,5 +9,6 @@ public class LearningmodClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
         HandledScreens.<ExampleGuiDescription, ExampleBlockScreen>register(Learningmod.SCREEN_HANDLER_TYPE, (gui, inventory, title) -> new ExampleBlockScreen(gui, inventory.player, title));
+        //small change
     }
 }
