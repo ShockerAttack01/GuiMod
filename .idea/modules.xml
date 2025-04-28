@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LearningMod.iml" filepath="$PROJECT_DIR$/LearningMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningMod.client.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningMod.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningMod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningMod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningMod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningMod.test.iml" />
     </modules>
   </component>
 </project>
